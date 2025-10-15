@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title> Lauronilla Portfolio </title>
+</head>
+<body style="background-color: lightblue;">
+
+    <h1 style="text-align: center;"> Profile </h1>
+
+    <div style="text-align: center;">
+        <img src="formalpicture.jpg" alt="My picture" width="300" height="300">
+    </div>
+
+    <h2> About Me </h2>
+    <p style="font-family: Arial;"> Hi! My name is Louise Xavier F. Lauronilla, I am a Second Year BSIT Student currently studying in Cebu Technological University Main Campus.
+    </p>
+
+    <h2> Contacts </h2>
+    <p style="font-family: Arial; color: gray;"> Contact Number: 09912975378
+    </p>
+    <p style="font-family: Arial; color: blue; text-decoration: underline"> Email: louisexavier.lauronilla@ctu.edu.ph
+    </p>
+
+</body>
+</html>
